@@ -1,1 +1,0 @@
-const m=document.querySelector('.menu'),l=document.querySelector('.links');if(m&&l)m.addEventListener('click',()=>{const o=l.classList.toggle('open');m.setAttribute('aria-expanded',o?'true':'false')});const f=document.querySelector('#contact-form');document.querySelectorAll('[data-year]').forEach(e=>e.textContent=new Date().getFullYear());
