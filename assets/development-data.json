@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "last_updated": "2026-10-09",
+  "approved_by": "Mark Hibbitt",
+  "accepted_source_build": "4150cb4",
+  "automated_tests": 1205,
+  "synthetic_customers": 1000,
+  "synthetic_service_accounts": 175,
+  "scoped_windows_uat_scenarios": 15,
+  "customer_creation_increments": 5,
+  "note": "Different scoped measures. This is approved aggregate display data, not a coverage or production-readiness claim."
+}
